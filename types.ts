@@ -1,4 +1,5 @@
-import type { SlangError } from './closetExecutor/exception'
+import type { SlangError } from './executor/exception'
+
 
 export enum SlangType {
     Unit = 'unit',
